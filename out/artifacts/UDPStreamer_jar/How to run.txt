@@ -1,0 +1,12 @@
+How to launch on a local machine.
+*Be warned that exceptions and stack traces may be printed in the console. (This is normal, just be patient xD)
+
+Launch Server (DO THIS FIRST)
+1. Open CMD and navigate to jar location.
+2. Type java -jar TCPStreamer.jar
+3. Select 2 (receive) and do not enter any port (press return)
+
+Launch Client (DO THIS SECOND)
+4. Open CMD again and find location again.
+5. Type java -jar TCPStreamer.jar
+6. Select 1 (transmit) and do not enter any address or port (press return)
