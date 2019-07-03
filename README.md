@@ -1,2 +1,2 @@
-# TCPCamStream
-Client-Server webcam frame transmission via TCP.
+# CamStream
+Client-Server webcam frame transmission.
