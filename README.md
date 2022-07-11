@@ -3,7 +3,7 @@
 Prerequisites: 
   - Running XSK with working connection to a Hana2 instance.
   - Firefox installed.
-  - Chrome installed. \
+  - Chrome installed.
   
 **Notice:**
 If you make changes to **XSK** that, for example change the content in migrated files or their names/extensions, \
