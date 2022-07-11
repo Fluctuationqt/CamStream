@@ -1,9 +1,5 @@
 # [Guide] XSK Selenium Tests
-*Short guide on how to Run & Debug the Selenium tests in XSK*
-Prerequisites: 
-  - Running XSK with working connection to a Hana2 instance.
-  - Firefox installed.
-  - Chrome installed.
+*Short guide on how to Run & Debug the Selenium tests in XSK* \
   
 **Notice:**
 If you make changes to **XSK** that, for example change the content in migrated files or their names/extensions, \
@@ -12,6 +8,11 @@ The expected project content after the test executes a migration is located [her
 You can modify/add/delete files here and it would change what the test is validating as content after a successful migration. 
   
 ## 1. Run & Debug Locally
+- **Prerequisites:** \
+    Running XSK with working connection to a Hana2 instance. \
+    Firefox installed. \
+    Chrome installed.
+  
 - **Open the module** \
     In **Intelij** click on **File > Open** and navigate to your local **XSK** project directory, \
     Select the **xsk-integration-tests-parent** module and. \
